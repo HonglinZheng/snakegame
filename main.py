@@ -4,7 +4,7 @@ import time
 import food as f
 import scoreboard as sc
 # global keys
-SPEED = 0.2
+SPEED = 0.3
 GAME_ON = "yes"
 # set screen
 screen = Screen()
