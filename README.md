@@ -2,15 +2,16 @@
 python turtle module
 
 ### 1. Guide the snake to find food
-The snake keeps moving once you start the game
-You can change the direction of moving by pressing the direction keys: up/down/left/right <br />
-Every time the snake gets food, its body gets longer <br />
+The snake keeps moving once the game starts.<br />
+You can change the direction by pressing the direction keys: up/down/left/right <br />
+Every time the snake gets food, it lengthens <br />
+Food will be randomly generated everywhere on the map.<br />
 
 ### 2. Don't hit walls or hit the snake body
-This is the interface when hit walls: <br />
+This is the interface when the snake hits walls: <br />
 ![wall](https://github.com/HonglinZheng/snakegame/blob/main/hitwall.png)
 
-This is the interface when hit the snake's body: <br />
+This is the interface when the snake hits its body: <br />
 ![body](https://github.com/HonglinZheng/snakegame/blob/main/hitbody.png)
 
 
