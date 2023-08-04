@@ -9,7 +9,7 @@ Food will be randomly generated everywhere on the map.<br />
 
 ### 2. Don't hit walls or hit the snake's body
 This is the interface when the snake hits its body: <br />
-![[FIG1](https://github.com/HonglinZheng/snakegame/blob/main/hitbody.png)
+![FIG1](https://github.com/HonglinZheng/snakegame/blob/main/hitbody.png)
 
 This is the interface when the snake hits walls: <br />
 ![FIG2](https://github.com/HonglinZheng/snakegame/blob/main/hitwall.png)
